@@ -1,0 +1,14 @@
+.table {
+    border: 1px;
+    border-style: solid;
+}
+
+.compsci {
+    background-color: green;
+}
+.math {
+    background-color: red;
+}
+.socsci {
+    background-color: brown;
+}
